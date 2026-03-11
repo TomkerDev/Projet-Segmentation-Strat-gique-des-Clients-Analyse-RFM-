@@ -1,0 +1,5 @@
+Dataset Source:
+Vous pouvez télécharger le jeu de données "Online Retail" utilisé pour ce projet sur le site officiel de l'UCI Machine Learning Repository :
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+Une fois téléchargé, placez le fichier Online Retail.xlsx dans ce dossier /Data pour exécuter le code.
